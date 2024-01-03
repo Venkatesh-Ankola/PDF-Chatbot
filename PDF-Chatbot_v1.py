@@ -1,4 +1,3 @@
-#chipi chipi chapa chapa dubi dubi daba daba 
 import streamlit as st
 from PyPDF2 import PdfReader
 # from streamlit_extras.add_vertical_space import add_vertical_space
