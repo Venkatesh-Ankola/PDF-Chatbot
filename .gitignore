@@ -1,0 +1,25 @@
+# Ignore .env files
+.env
+
+# Ignore .requirements.txt files in the python folder
+python/.requirements.txt
+
+# General python ignores
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+sdist
+var
+develop-eggs
+.installed.cfg
+*.egg-info
+
+# Virtual environment folders
+venv/
+ENV/
